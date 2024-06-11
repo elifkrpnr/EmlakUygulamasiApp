@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmlakUygulamasiApp", "EmlakUygulamasiApp\EmlakUygulamasiApp.csproj", "{02FBA527-780F-426F-80D5-1B97643524BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvLib", "EvLib\EvLib.csproj", "{3483F180-16B1-4B5C-9920-5098C2800632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02FBA527-780F-426F-80D5-1B97643524BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FBA527-780F-426F-80D5-1B97643524BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FBA527-780F-426F-80D5-1B97643524BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FBA527-780F-426F-80D5-1B97643524BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3483F180-16B1-4B5C-9920-5098C2800632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3483F180-16B1-4B5C-9920-5098C2800632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3483F180-16B1-4B5C-9920-5098C2800632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3483F180-16B1-4B5C-9920-5098C2800632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {549CC519-7AC2-4930-8109-3C6BF659C4FD}
+	EndGlobalSection
+EndGlobal
